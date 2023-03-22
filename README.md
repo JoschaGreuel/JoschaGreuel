@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoschaGreuel
-- 👀 I am interested in building Afghanistan 2.0 by giving my 5 cents to develop professional Afghan software industry
+- 👀 I am interested in building Afghanistan 2.0 with Kite Runner - professional software development from Afghanistan
 - 🌱 I’m currently learning how to do sales of software services
 - 💞️ I’m looking to collaborate on staffing software projects
 - 📫 Contact me at joscha.greuel@kern.ag and explore www.kiterunner.net
